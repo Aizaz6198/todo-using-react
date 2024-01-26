@@ -2,6 +2,7 @@
 This project is created using React.js. This project is about creating a simple todo list in which you can add, modify and delete a task.
 
 ## Deployed link: 
+https://todolist-y9ws.onrender.com
 
 click the above link to use the todo list which  is already deployed
 
